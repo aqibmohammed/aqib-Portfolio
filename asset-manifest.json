@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/aqib-Portfolio/static/css/main.9d41601e.css",
+    "main.js": "/aqib-Portfolio/static/js/main.e5593bca.js",
+    "static/media/portfolio.png": "/aqib-Portfolio/static/media/portfolio.b538be28cef9bfcc3d36.png",
+    "static/media/aqib_P.jpg": "/aqib-Portfolio/static/media/aqib_P.bc27b5102312be7954c6.jpg",
+    "static/media/java .png": "/aqib-Portfolio/static/media/java .1dcbd27ef1320d2f521e.png",
+    "static/media/mysql.png": "/aqib-Portfolio/static/media/mysql.497f0352daee384d84b7.png",
+    "static/media/python.png": "/aqib-Portfolio/static/media/python.c2f539d50caa3745ce64.png",
+    "static/media/TSBIE.jpg": "/aqib-Portfolio/static/media/TSBIE.3262985dd30dcc5ef9f0.jpg",
+    "static/media/database.png": "/aqib-Portfolio/static/media/database.1805c5830818dc61837b.png",
+    "static/media/jntuh.jpg": "/aqib-Portfolio/static/media/jntuh.2bcc409fa75be3bfd696.jpg",
+    "index.html": "/aqib-Portfolio/index.html",
+    "main.9d41601e.css.map": "/aqib-Portfolio/static/css/main.9d41601e.css.map",
+    "main.e5593bca.js.map": "/aqib-Portfolio/static/js/main.e5593bca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d41601e.css",
+    "static/js/main.e5593bca.js"
+  ]
+}
