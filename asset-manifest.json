@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aqib-Portfolio/static/css/main.9d41601e.css",
-    "main.js": "/aqib-Portfolio/static/js/main.08ff0f9b.js",
+    "main.js": "/aqib-Portfolio/static/js/main.4da6ee17.js",
     "static/media/portfolio.png": "/aqib-Portfolio/static/media/portfolio.b538be28cef9bfcc3d36.png",
     "static/media/aqib_P.jpg": "/aqib-Portfolio/static/media/aqib_P.bc27b5102312be7954c6.jpg",
     "static/media/java .png": "/aqib-Portfolio/static/media/java .1dcbd27ef1320d2f521e.png",
@@ -12,10 +12,10 @@
     "static/media/jntuh.jpg": "/aqib-Portfolio/static/media/jntuh.2bcc409fa75be3bfd696.jpg",
     "index.html": "/aqib-Portfolio/index.html",
     "main.9d41601e.css.map": "/aqib-Portfolio/static/css/main.9d41601e.css.map",
-    "main.08ff0f9b.js.map": "/aqib-Portfolio/static/js/main.08ff0f9b.js.map"
+    "main.4da6ee17.js.map": "/aqib-Portfolio/static/js/main.4da6ee17.js.map"
   },
   "entrypoints": [
     "static/css/main.9d41601e.css",
-    "static/js/main.08ff0f9b.js"
+    "static/js/main.4da6ee17.js"
   ]
 }
